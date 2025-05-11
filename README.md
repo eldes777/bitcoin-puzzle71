@@ -13,10 +13,9 @@ random scan
 #### puzzle71-step.py
 random scan with random step
 
-
+===============================================================
 FORKED FROM:
 https://github.com/rouze-d
 
-#-------------------------------------
-# PLEASE DONATE TO ORIGINAL OWNER
-#-------------------------------------
+PLEASE DONATE TO ORIGINAL OWNER
+

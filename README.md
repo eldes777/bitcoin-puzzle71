@@ -16,7 +16,7 @@ random scan with random step
 ===============================================================
 
 FORKED FROM:
-[[https://github.com/rouze-d](https://github.com/rouze-d/bitcoin-puzzle69)](https://github.com/rouze-d/bitcoin-puzzle69)
+[(https://github.com/rouze-d/bitcoin-puzzle69)](https://github.com/rouze-d/bitcoin-puzzle69)
 
 PLEASE DONATE TO ORIGINAL OWNER
 

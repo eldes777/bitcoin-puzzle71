@@ -1,5 +1,13 @@
 #!/usr/bin/python3
+#
+# FORKED FROM:
 # https://github.com/rouze-d
+
+#-------------------------------------
+# PLEASE DONATE TO ORIGINAL OWNER
+#-------------------------------------
+
+# PUZZLE 71 
 
 import secp256k1 as ice
 import random
@@ -9,7 +17,7 @@ count=0
 total=0
 
 while True:
-    num = random.randrange(295147905179352825856, 590295810358705651711)
+    num = random.randrange(1180591620717411303424, 2361183241434822606847)
     compress_address = ice.privatekey_to_address( 0, True, num)
     magic = hex(num)[2:].zfill(64)
 
@@ -17,7 +25,7 @@ while True:
     total+=1
     print(total, magic, compress_address, end='\r')
 
-    if compress_address == "19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG" :
+    if compress_address == "1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU" :
 
         
         print('\nPrivate HEX     : ', magic)

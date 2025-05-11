@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #
 # FORKED FROM:
-# https://github.com/rouze-d
+# https://github.com/rouze-d/bitcoin-puzzle69
 
 #-------------------------------------
 # PLEASE DONATE TO ORIGINAL OWNER
